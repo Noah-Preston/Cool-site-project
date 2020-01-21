@@ -1,0 +1,58 @@
+.txt-blue{
+  color: blue
+}
+
+.txt-lightblue {
+  color: lightblue
+}
+
+.txt-darkblue {
+  color: darkblue
+}
+
+.bg-lightblue {
+  background-color: lightblue;
+}
+
+.bg-darkblue {
+  background-color: darkblue;
+}
+
+.txt-white {
+  color: white;
+}
+.centertext {
+  text-align: center;
+}
+.sansserif {
+  font-family: sans-serif;
+}
+.txt-large {
+  font-size: 5vw;
+}
+.makepad {
+  padding: 1vw;
+  margin-top: 3vw;
+}
+.bigblock {
+  width: 75vw;
+}
+.smallblock {
+  width: 20vw;
+}
+.inlineblock {
+  display: inline-block;
+}
+.imgsize {
+  height: 100px;
+  width: 100px;
+}
+.smallfont {
+  font-size: 1vw;
+}
+.makepadbig {
+padding: 5vw;
+}
+.setall {
+  size: 90vw;
+}
